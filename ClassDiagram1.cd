@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OrdenBase">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>OrdenBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dispositivo1" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DispositivoN1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DispositivoN2" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DispositivoN2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DispositivoN3" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DispositivoN3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorador" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Decorador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auriculares" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Auriculares.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camara" Collapsed="true">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Camara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cargador" Collapsed="true">
+    <Position X="10.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cargador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Liquidos" Collapsed="true">
+    <Position X="13.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Liquidos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pantalla" Collapsed="true">
+    <Position X="13" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Pantalla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parlan_Altavoz" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parlan_Altavoz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reinicio" Collapsed="true">
+    <Position X="14.75" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="Decorador" FixedToPoint="true">
+      <Path>
+        <Point X="12.25" Y="2.312" />
+        <Point X="12.25" Y="2.687" />
+        <Point X="14.75" Y="2.687" />
+        <Point X="14.75" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Reinicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movil" Collapsed="true">
+    <Position X="4" Y="5" Width="1.5" />
+    <InheritanceLine Type="Cliente" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.312" />
+        <Point X="5.5" Y="4.625" />
+        <Point X="4.688" Y="4.625" />
+        <Point X="4.688" Y="5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Movil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cliente" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAARAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
